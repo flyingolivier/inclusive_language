@@ -1,0 +1,14 @@
+inclusive_language:
+    intro: |
+    
+      ################################################################################################################################################################
+      #                                                                                                                                                              # 
+      # The following words in the provided text could, context permitting, be replaced by more inclusive ones. See below for a list of suggestions.                 #
+      #                                                                                                                                                              # 
+      ################################################################################################################################################################
+    
+    text: Submitted text
+    recommendations: Recommendations
+    instead_of: Instead of
+    consider: consider
+    or: or

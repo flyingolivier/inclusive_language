@@ -1,0 +1,109 @@
+guys:
+  - folks
+  - team
+  - y’all
+gals:
+  - folks
+  - team
+  - y’all
+chairman:
+  - chair
+  - moderator
+  - chairperson
+mankind:
+  - humanity
+  - people
+  - humankind
+man:
+  - humanity
+  - people
+  - humankind
+sister school:
+  - other UC campus
+sister campus:
+  - other UC campus
+grandfathered:
+  - legacy status
+  - preexisting
+right-hand man:
+  - counterpart
+  - indispensable
+man hours:
+  - person hours
+  - engineer hours
+  - level of effort (hours)
+manpower:
+  - person hours
+  - engineer hours
+  - level of effort (hours)
+attacker-in-the-middle:
+  - man-in-the-middle
+whitelist:
+  - allowlist
+  - safelist
+whitelisted:
+  - safelisted
+blacklisted:
+  - blocklisted
+white box:
+  - glass box testing
+  - clear box testing
+black box:
+  - functional testing
+  - acceptance testing
+native feature:
+  - built-in feature
+first class citizen:
+  - core concept
+  - top-level
+housekeeping tasks:
+  - maintenance
+  - upkeep
+master:
+  - primary
+slave:
+  - secondary
+  - replica
+  - standby
+master branch:
+  - main branch
+off the reservation:
+  - against the grain
+  - counterproductive
+user with a visual impairment:
+  - screen reader
+  - magnifier user
+hearing impaired:
+  - D/deaf
+  - hard of hearing
+sanity check:
+  - smoke test
+  - quick check
+  - confidence check
+  - coherence check
+dummy value:
+  - placeholder value
+  - sample value
+cripple:
+  - hinder
+deaf to:
+  - ignore
+blind to:
+  - ignore
+tone deaf:
+  - inconsiderate
+  - thoughtless 
+  - careless
+demilitarized zone:
+  - perimeter network
+DMZ:
+  - perimeter network
+hang:
+  - stop responding
+kill:
+  - halt
+  - stop
+kill two birds with one stone:
+  - feed two birds with one scone
+nuke:
+  - delete
