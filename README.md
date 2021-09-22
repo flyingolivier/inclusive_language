@@ -27,22 +27,7 @@ Output returns the submitted text with the non-inclusive words highlighted and a
 ```
 
 ## Example
-```
-python3 main.py "That's one small step for man, one giant leap for mankind."
-
-################################################################################################################################################################
-#                                                                                                                                                              #
-# The following words in the provided text could, context permitting, be replaced by more inclusive ones. See below for a list of suggestions.                 #
-#                                                                                                                                                              #
-################################################################################################################################################################
-
-**Submitted text**
-   That's one small step for man, one giant leap for mankind.
-
-**Recommendations**
-   Instead of **man** consider **humanity**, **people**, or **humankind**
-   Instead of **mankind** consider **humanity**, **people**, or **humankind**
-```
+![Screen Shot 2021-09-22 at 4 30 32 PM](https://user-images.githubusercontent.com/1015117/134435260-ea7ef3a3-d8d2-46f4-aab9-bde14bbc7012.png)
 
 ## Disclaimer
 This script come without warranty of any kind. Review its code and use it at your own risk. 
